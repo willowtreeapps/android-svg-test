@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnimatedSvgTest</string>
+    <string name="app_name_wt">AnimatedSvgTest - WT</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
